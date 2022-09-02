@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anisossss
-- 👀 I’m interested in web development and AI
-- 🌱 I’m currently learning Cython
-- 💞️ I’m looking to collaborate on MERN Stack projects
+- 👀 I’m a Full Stack Developer
+- 💞️ I’m looking to collaborate on Web3.0 projects
 
 <!---
 anisossss/anisossss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
