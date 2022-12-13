@@ -1,7 +1,7 @@
 
 ## Hey 👋, I'm [Anis Khalef](https://github.com/anisossss) 👨‍💻
-## 👀 I’m a Full Stack Developer | Webmaster | SEO Consultant 
-## 🦾 I’m looking to collaborate on Web3.0 @anisossss
+## I’m a Full Stack Developer | Webmaster | SEO Consultant 
+## I’m looking to collaborate on Web3.0 @anisossss
 <br>
 
 <div align="center">
