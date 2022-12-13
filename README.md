@@ -3,9 +3,10 @@
 <div align="center">
 <img hight="300" width="800" alt="GIF" align="center" src="https://github.com/anisossss/anisossss/blob/main/nerd.gif">
 </div>
+
+<br>
 ## I’m a Full Stack Developer | Webmaster | SEO Consultant 
 ## I’m looking to collaborate on Web3.0 @anisossss
-<br>
 <br>
 
 <h2 align="center">Reach me on <img src="https://github.com/anisossss/anisossss/blob/main/2.gif" width="30"></h2>
