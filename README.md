@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anis Khalef 
 - 👀 I’m a Full Stack Developer | Webmaster | SEO Consultant 
-- 💞️ I’m looking to collaborate on Web3.0 @anisossss
+- 🦾 I’m looking to collaborate on Web3.0 @anisossss
 
 <!---
 anisossss/anisossss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
