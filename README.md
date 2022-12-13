@@ -6,10 +6,6 @@
 <img hight="300" width="800" alt="GIF" align="center" src="https://github.com/anisossss/anisossss/blob/main/nerd.gif">
 </div>
 
-<br>
-## I’m looking to collaborate on Web3.0 @anisossss
-<br>
-
 <h2 align="center">Reach me on <img src="https://github.com/anisossss/anisossss/blob/main/2.gif" width="30"></h2>
 <p align="center">
 <a href="mailto:anis.khlaef98@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
@@ -19,10 +15,7 @@
 <h2 align="center">Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
 
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
- &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
- &nbsp;
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>
