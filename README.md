@@ -1,12 +1,12 @@
 
-## Hey 👋, I'm [Anis Khalef]([https://github.com/anisossss](https://anis-portfolio.vercel.app/)) 👨‍💻
+# Hey 👋, I'm [Anis Khalef]([(https://anis-portfolio.vercel.app/]) 
+## 👨‍💻 I’m a Full Stack Developer | Webmaster | SEO Consultant 
 
 <div align="center">
 <img hight="300" width="800" alt="GIF" align="center" src="https://github.com/anisossss/anisossss/blob/main/nerd.gif">
 </div>
 
 <br>
-## I’m a Full Stack Developer | Webmaster | SEO Consultant 
 ## I’m looking to collaborate on Web3.0 @anisossss
 <br>
 
