@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/anis-khalef-11660a231/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
 
-<h2 align="center">Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
 
