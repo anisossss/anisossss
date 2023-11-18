@@ -6,7 +6,7 @@
 <img hight="300" width="800" alt="GIF" align="center" src="https://github.com/anisossss/anisossss/blob/main/nerd.gif">
 </div>
 
-<h2 align="center">Reach me on <img src="https://github.com/anisossss/anisossss/blob/main/2.gif" width="30"></h2>
+<h2 align="center">Reach me on</h2>
 <p align="center">
 <a href="mailto:anis.khlaef98@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
 <a href="https://www.linkedin.com/in/anis-khalef-11660a231/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
@@ -50,4 +50,4 @@
  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
-<br>
+
