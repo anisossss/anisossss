@@ -1,5 +1,5 @@
-# [Anis Khalef](https://anis-portfolio.vercel.app/) _ Your Pragmatic Web Consultant 
-## Expert Full Stack Developer | Webmaster | SEO Strategist 
+# [Anis Khalef](https://anis-portfolio.vercel.app/) ___ Your Pragmatic Web Consultant 
+## Expert Full Stack Developer ___ Webmaster ___ SEO Strategist 
 <div align="center">
 <img hight="300" width="800" alt="GIF" align="center" src="https://github.com/anisossss/anisossss/blob/main/nerd.gif">
 </div>
