@@ -2,15 +2,19 @@
 # Hey 👋, I'm [Anis Khalef](https://anis-portfolio.vercel.app/) 
 # 👨‍💻 Expert Full Stack Developer | Webmaster | SEO Strategist 
 <div align="center">
-<img height="300" width="800" alt="GIF" align="center" src="https://github.com/anisossss/anisossss/blob/main/hero.gif">
+<img hight="300" width="800" alt="GIF" align="center" src="https://github.com/anisossss/anisossss/blob/main/nerd.gif">
 </div>
-<h2 align="center">Let's Connect</h2>
+
+<h2 align="center">Reach me on</h2>
 <p align="center">
-<a href="mailto:anis.khlaef98@gmail.com.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
-<a href="https://www.linkedin.com/in/anis-khalef-11660a231/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="mailto:anis.khlaef98@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
+<a href="https://www.linkedin.com/in/anis-khalef-11660a231/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
-<h2 align="center">My Tech Arsenal</h2>
+
+<h2 align="center">Tech Stack</h2>
+
 <p align="center">
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>
