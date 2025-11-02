@@ -21,7 +21,7 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anis.khalef98@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anis-khalef-11660a231/)
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/anisossss)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aniskhalef.com/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.aniskhalef.com/)
   
 </div>
 
@@ -103,7 +103,7 @@
   **CONTACT**
   
   [![Email](https://img.shields.io/badge/anis.khalef98@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anis.khalef98@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/aniskhalef.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://aniskhalef.com/)
+  [![Portfolio](https://img.shields.io/badge/aniskhalef.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://www.aniskhalef.com/)
   [![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=flat-square)](https://github.com/anisossss)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=anisossss&color=00FFFF&style=flat-square&label=PROFILE+VIEWS)
